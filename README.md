@@ -44,4 +44,4 @@ link:
 ![list1](https://github.com/user-attachments/assets/e259bcca-4072-42ac-8f99-83bfb8667d63)
 
 ## Cara Menjalankan Aplikasi
-1. Clone repository:
+1. Clone repository:https://github.com/Sitisakhinah05/Daily_Checklist_Lite.git
