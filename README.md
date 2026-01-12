@@ -13,7 +13,7 @@ Aplikasi ini dibuat untuk tugas UAS mata kuliah Aplikasi Mobile.
 aplikasi ini bertema Pengingat tugas
 aplikasi rujukannnya:
 Daily Checklist
-link:
+link: https://play.google.com/store/apps/details?id=app.dailychecklist
 ## Fitur yang dibuat
 - [x] Login
 - [x] List transaksi
