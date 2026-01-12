@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Daily_Checklist_Lite">
+
+        <!-- SPLASH (LAUNCHER) -->
+        <activity
+            android:name="com.example.daily_checklist_lite.splashActivity.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <!-- AUTH -->
+        <activity
+            android:name="com.example.daily_checklist_lite.auth.LoginActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.daily_checklist_lite.auth.RegisterActivity"
+            android:exported="false" />
+
+        <!-- MAIN -->
+        <activity
+            android:name="com.example.daily_checklist_lite.ui.MainActivity"
+            android:exported="false" />
+
+        <!-- CHECKLIST -->
+        <activity
+            android:name="com.example.daily_checklist_lite.checklist.AddChecklistActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.daily_checklist_lite.checklist.EditChecklistActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.daily_checklist_lite.checklist.DetailChecklistActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

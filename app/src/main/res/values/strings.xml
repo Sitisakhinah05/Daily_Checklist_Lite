@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Daily Checklist Lite</string>
+
+    <!-- Splash -->
+    <string name="app_title">Daily Checklist</string>
+    <string name="loading">Loading...</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="login_failed">Login gagal</string>
+    <string name="empty_field">Email dan Password wajib diisi</string>
+    <string name="go_to_register">Belum punya akun? Daftar</string>
+
+    <!-- Register -->
+    <string name="register">Register</string>
+    <string name="register_success">Registrasi berhasil</string>
+    <string name="register_failed">Registrasi gagal</string>
+    <string name="already_have_account">Sudah punya akun? Login</string>
+
+    <!-- Checklist -->
+    <string name="checklist">Checklist</string>
+    <string name="add_checklist">Tambah Checklist</string>
+    <string name="edit_checklist">Edit Checklist</string>
+    <string name="detail_checklist">Detail Checklist</string>
+    <string name="checklist_title">Judul Checklist</string>
+    <string name="checklist_desc">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="delete">Hapus</string>
+
+    <!-- Status -->
+    <string name="status_done">Selesai</string>
+    <string name="status_not_done">Belum Selesai</string>
+
+    <!-- Notification -->
+    <string name="notif_channel_name">Checklist Notification</string>
+    <string name="notif_channel_desc">Notifikasi Checklist</string>
+    <string name="notif_add_success">Data berhasil ditambahkan</string>
+    <string name="notif_update_success">Data berhasil diperbarui</string>
+    <string name="notif_delete_success">Data berhasil dihapus</string>
+
+    <!-- Profile -->
+    <string name="profile">Profil</string>
+    <string name="logout">Logout</string>
+    <string name="logout_success">Berhasil logout</string>
+
+</resources>

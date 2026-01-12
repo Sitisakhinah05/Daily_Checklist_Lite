@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949326305140",
+    "project_id": "daily-checklist-lite",
+    "storage_bucket": "daily-checklist-lite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949326305140:android:96f021dd02971b6bd1be21",
+        "android_client_info": {
+          "package_name": "com.example.daily_checklist_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2vTfOJsRNmUrWHi8yvOs3qtwHuKkVMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
